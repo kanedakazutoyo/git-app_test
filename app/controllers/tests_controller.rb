@@ -1,5 +1,5 @@
 class TestsController < ApplicationController
   def index
-    どうも
+    test:よくわからん
   end
 end
